@@ -201,7 +201,8 @@ this:
 | --- | -------- | ------ |
 | 1   | mugumogu | 1      |
 
-So far so good. But what happens when we need to add a second cat, "Hana", to the same owner?
+So far so good. But what happens when we need to add a second cat, "Hana", to
+the same owner?
 
 | id  | name     | cat_id1 | cat_id2 |
 | --- | -------- | ------- | ------- |
