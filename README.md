@@ -6,6 +6,22 @@
 
 ***
 
+## Key Vocab
+
+- **Primary Key**: a number that uniquely identifies one record in a table.
+- **Foreign Key**: a column or group of columns that connects one table to
+  another.
+- **Join**: a query that returns related records from multiple tables in a
+  single record.
+- **One-to-Many**: a type of relationship between tables where one record in
+  table A is connected to multiple records in table B. **e.g.** One person
+  ordering multiple drinks at a bar.
+- **Many-to-Many**: a type of relationship between tables where multiple
+  records in table A are connected to multiple records in table B. **e.g.**
+  Students have many classes and classes have many students.
+
+***
+
 ## Introduction
 
 In this lesson, we'll relate data from one table to data from another table
