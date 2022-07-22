@@ -241,7 +241,7 @@ to, only one author.
         column?</em>
   </summary>
 
-  <h3>Artworks would get a foreign key for museums.</h3>
+  <h3><code>artworks</code> would get a foreign key for <code>museums</code>.</h3>
   <p>Each artwork belongs to a museum, with each museum having many artworks.
      Remember that in a <em>one-to-many</em> relationship, the <em>many table
      receives the foreign key for the <em>one</em>.</p>
