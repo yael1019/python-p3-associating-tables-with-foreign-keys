@@ -234,6 +234,20 @@ purposes of this example — a cat can only belong to one owner. Similarly, an
 author can write many posts, but each post was written by, and therefore belongs
 to, only one author.
 
+<details>
+  <summary>
+    <em>Imagine we have a <code>museums</code> table and an
+        <code>artworks</code> table. Which table would get a foreign key
+        column?</em>
+  </summary>
+
+  <h3>Artworks would get a foreign key for museums.</h3>
+  <p>Each artwork belongs to a museum, with each museum having many artworks.
+     Remember that in a <em>one-to-many</em> relationship, the <em>many table
+     receives the foreign key for the <em>one</em>.</p>
+</details>
+<br/>
+
 ***
 
 ## Resources
